@@ -1,0 +1,1 @@
+This is the first thing you read when you get a new application. This is a file I'm using to test GitHub. Proper capitalization.
